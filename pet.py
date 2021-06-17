@@ -1,5 +1,5 @@
 number_1 = 1
-number_2 = 2
+number_2 = 5
 
 # Addition
 print('{} + {} = '.format(number_1, number_2))
